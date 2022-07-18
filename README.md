@@ -16,21 +16,33 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 | Name                            | Type    | Description         | Technologies      | 
 | -------------                   | --------| ------------------- | ---------- | 
-|   Brains on Brioche             | Group   |   Jest              | JavaScript, Node.js, Express, Mongoose, MongoDB, HTML5, CSS3, Jest, Cypress, React, Redux           | 
-|   Acebook                       | Group   |   RSpec             | JavaScript, Node.js, Express, Handblebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress | 
-|   Makers BnB                    | Group   |   RSpec             | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5, PostgreSQL | 
-|   Instagram Challenge           | Solo    |   Cypress           |            | 
-|   Noughts and Crosses           | Solo    |   Capybara          |            | 
-|   Bowling Challenge             | Solo    |   Capybara          |            | 
-|   Bowling Challenge Redux       | Solo    |   Capybara          |            | 
-|   Chitter Challenge             | Solo    |   Capybara          |            | 
-|   Takeaway Challenge            | Solo    |   Capybara          |            | 
-|   Rock, Paper, Scissors Challenge| Solo   |   Capybara          | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5            | 
+|   Brains on Brioche             | Group   | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.                | JavaScript, Node.js, Express, Mongoose, MongoDB, HTML5, CSS3, Jest, Cypress, React, Redux           | 
+|   Acebook                       | Group   |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.             | JavaScript, Node.js, Express, Handblebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress | 
+|   Makers BnB                    | Group   |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.             | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5, PostgreSQL | 
+|   Instagram Challenge           | Solo    |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.           |            | 
+|   Noughts and Crosses           | Solo    |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.         |            | 
+|   Bowling Challenge             | Solo    |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.        |            | 
+|   Bowling Challenge Redux       | Solo    |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.     |            | 
+|   Chitter Challenge             | Solo    |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.         |            | 
+|   Takeaway Challenge            | Solo    |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.         |            | 
+|   Rock, Paper, Scissors Challenge| Solo   |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.         | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5            | 
 |   
 
 
+# Experience/Appointments
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**2016-2022**<br>
+*London Clay Gardens: Founder and owner*<br>
+In 2016 I founded my own landscape gardening business, turning a profit in the first year and growing from there on out. I took on dozens of regular clients and several large projects across London, building a loyal client base in a short space of time.
+
+**2013-2015**
+*Grant Writer for the John Rylands Research Institute at the University of Manchester* 
+Lorem ipsum
+
+**2012-2015**
+Research Administrator on ‘Arabic Commentaries on the Hippocratic Aphorisms’ Project at the University of Manchester. 
+Lorem ipsum
+
 
 # Skills
 
@@ -48,10 +60,10 @@ Organised and adaptable
 - Something about the need to manage every aspect of the business and keep on top of the different plates - HMRC, various insurances, record-keeping, client-management, scheduling, tool- and vehicle-maintenance, all down to me. 
 
 Maths
-- While I don’t have a degree in a mathematical subject, running my own business, especially one that is construction based, has led me to become adept in practical maths. Every landscaping job entails careful planning and calculation to ensure that there is neither surplus nor deficit, and that the finished project will be safe, and a few millimetres can be the difference between achieving the desired outcome and wasting time and materials. Volume, load-capacity, and budget are just some of the aspects of a standard project that require careful attention to detail and a willingness to carry out regular calculations. Aside from the construction aspect of the job, it is necessary to have a clear and ergonomic approach to invoicing, record-keeping, budgeting and fiscal responsibilities to ensure that the administrative side of the business runs smoothly. 
+- Running my own business, especially one that is construction based, has led me to become adept in practical maths. Every landscaping job entails careful planning and calculation to ensure that there is neither surplus nor deficit, and that the finished project will be safe, and a few millimetres can be the difference between achieving the desired outcome and wasting time and materials. Volume, load-capacity, and budget are just some of the aspects of a standard project that require careful attention to detail and a willingness to carry out regular calculations. Aside from the construction aspect of the job, it is necessary to have a clear and ergonomic approach to invoicing, record-keeping, budgeting and fiscal responsibilities to ensure that the administrative side of the business runs smoothly. 
 
 Curious
-- I have a curious mind, for which software engineering has proved the perfect cure(?? - use another word). I won’t rest until I solve a puzzle. I love learning, and I enjoy the idea that coding is a versatile, immersive and constantly changing field in which there is always more to discover.
+- I have a curious mind, for which software engineering has proved the perfect outlet. I won’t rest until I solve a puzzle. I love learning, and I enjoy the idea that coding is a versatile, immersive and constantly changing field in which there is always more to discover.
 
 A sharp eye for detail
 - I offered proofing and editing services to my PI on the Arabic Aphorisms project, as well as on articles and for his book (give name). I also proofed, edited, collated and standardised the CVs of applicants on funding applications. All in all, I was heavily involved in approx. £1.5m grant capture, including a £1m grant from the Arts and Humanities Research Council (AHRC).
@@ -60,21 +72,6 @@ A sharp eye for detail
 Aptitude for languages
 - Prior to founding my business, my background was in academia, and involved translating from ancient and modern languages. Just as I enjoy the relationship between scripts and syntaxes found in different human languages, I’ve enjoyed seeing how coding languages complement each other.
 - As well as being proficient in German and being able to speak several other languages to various degrees, I can read several other scripts, namely Greek, Cyrillic, and Hebrew. 
-
-# Experience/Appointments
-
-**2016-2022**
-London Clay Gardens
-Lorem ipsum
-
-**2013-2015**
-Grant Writer for the John Rylands Research Institute at the University of Manchester 
-Lorem ipsum
-
-**2012-2015**
-Research Administrator on ‘Arabic Commentaries on the Hippocratic Aphorisms’ Project at the University of Manchester. 
-Lorem ipsum
-
 
 # Education
 
