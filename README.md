@@ -1,3 +1,6 @@
+Intro 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # Tech skills
 
@@ -10,6 +13,8 @@
 
 
 # Projects
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # Skills
 
@@ -40,7 +45,20 @@ Aptitude for languages
 - Prior to founding my business, my background was in academia, and involved translating from ancient and modern languages. Just as I enjoy the relationship between scripts and syntaxes found in different human languages, I’ve enjoyed seeing how coding languages complement each other.
 - As well as being proficient in German and being able to speak several other languages to various degrees, I can read several other scripts, namely Greek, Cyrillic, and Hebrew. 
 
-# Experience
+# Experience/Appointments
+
+**2016-2022**
+London Clay Gardens
+Lorem ipsum
+
+**2013-2015**
+Grant Writer for the John Rylands Research Institute at the University of Manchester 
+Lorem ipsum
+
+**2012-2015**
+Research Administrator on ‘Arabic Commentaries on the Hippocratic Aphorisms’ Project at the University of Manchester. 
+Lorem ipsum
+
 
 # Education
 
@@ -71,17 +89,32 @@ AS-Level: English (C)
 
 # Awards and Grants
 
-**2015** John Muir Award
-**2012** Roman Society Bursary
-£500 bursary for a two-week study visit to the Hardt Foundation for the Study of Classical Antiquity in Geneva.
-**2009** AHRC Research Grant
-Individual grant from the UK Arts and Humanities Research Council worth a total of £50,268. 
-**2008** Taught Master’s Programme Bursary
-A one-year fees award provided by the School of Arts, Histories and Cultures. 
-**2008** TBL Webster Prize 
-Prize of £50 from the School of Arts, Histories and Cultures for academic excellence.
-**2007** Departmental Undergraduate Award
-Recognised as one of ten outstanding students in the Department of Classics and Ancient History in the academic year 2007-2008, out of a cohort of nearly 400. 
+**2015** John Muir Award <br>
+**2012** Roman Society Bursary <br>
+£500 bursary for a two-week study visit to the Hardt Foundation for the Study of Classical Antiquity in Geneva. <br>
+**2009** AHRC Research Grant <br>
+Individual grant from the UK Arts and Humanities Research Council worth a total of £50,268. <br>
+**2008** Taught Master’s Programme Bursary <br>
+A one-year fees award provided by the School of Arts, Histories and Cultures. <br>
+**2008** TBL Webster Prize <br>
+Prize of £50 from the School of Arts, Histories and Cultures for academic excellence. <br>
+**2007** Departmental Undergraduate Award <br>
+Recognised as one of ten outstanding students in the Department of Classics and Ancient History in the academic year 2007-2008, out of a cohort of nearly 400. <br>
 
+# Volunteering
+
+London Wildlife Trust (Camley Street Nature Reserve) 
+Duties: Greeting and informing visitors; coppicing; pond clearance; composting; construction (e.g. benches). 
+Achievements: Received John Muir Discovery Award 
+
+RSPB - school outreach programme.
+
+# Additional community work
+
+MAP programme - did this just after finishing PhD, rather than taking break - outreach, students from widening participation backgrounds 
+
+Edge Lane Allotments, Manchester 
+Achievements: Built greenhouse and raised beds; clearance; implemented communal beds; helped organise events to bring more people into scheme. 
 
 # Hobbies
+
