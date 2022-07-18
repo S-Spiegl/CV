@@ -1,1 +1,7 @@
-# CV
+
+#Tech skills
+#Projects
+#Skills
+#Experience
+#Education
+#Hobbies
