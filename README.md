@@ -22,7 +22,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 |   Instagram Challenge           | Solo    |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.           |            | 
 |   Noughts and Crosses           | Solo    |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.         |            | 
 |   Bowling Challenge             | Solo    |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.        |            | 
-|   Bowling Challenge Redux       | Solo    |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.     |            | 
+|   Bowling Challenge JS       | Solo    |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.     |            | 
+|   Bowling Challenge JS Redux       | Solo    |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.     |            | 
 |   Chitter Challenge             | Solo    |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.         |            | 
 |   Takeaway Challenge            | Solo    |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.         |            | 
 |   Rock, Paper, Scissors Challenge| Solo   |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.         | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5            | 
