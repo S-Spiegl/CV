@@ -14,6 +14,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 # Projects
 
+| Name                            | Type    | Description         | Technologies      | 
+| -------------                   | --------| ------------------- | ---------- | 
+|   Brains on Brioche             | Group   |   Jest              | JavaScript, Node.js, Express, Mongoose, MongoDB, HTML5, CSS3, Jest, Cypress, React, Redux           | 
+|   Acebook                       | Group   |   RSpec             | JavaScript, Node.js, Express, Handblebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress | 
+|   Makers BnB                    | Group   |   RSpec             | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5, PostgreSQL | 
+|   Instagram Challenge           | Solo    |   Cypress           |            | 
+|   Noughts and Crosses           | Solo    |   Capybara          |            | 
+|   Bowling Challenge             | Solo    |   Capybara          |            | 
+|   Bowling Challenge Redux       | Solo    |   Capybara          |            | 
+|   Chitter Challenge             | Solo    |   Capybara          |            | 
+|   Takeaway Challenge            | Solo    |   Capybara          |            | 
+|   Rock, Paper, Scissors Challenge| Solo   |   Capybara          | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5            | 
+|   
+
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 # Skills
