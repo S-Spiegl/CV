@@ -1,6 +1,6 @@
-# Intro 
+# About me: 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Fullstack software engineer who arrived late to the coding party, but plans to be the last out the door. Coder by day, coder by night, and horticulturalist, birdwatcher, and woodturner the rest of the time. I spent a long time looking for the right industry, having worked in academia, copyediting, grant-acquisition, administration and landscaping among (sometimes literally) other fields, but I now know I'm where I'm meant to be. I have a growth mindset, and relish the opportunity to work in a field where there is contantly the opportunity to learn new things. Having completed the intensive bootcamp at Makers Academy, I want to work at a company that offers the opportunity to grow myself and also contribute to society (an ethos which I incoprorated into my final project). 
 
 # Tech skills
 
@@ -34,15 +34,24 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **2016-2022**<br>
 *London Clay Gardens: Founder and owner*<br>
-In 2016 I founded my own landscape gardening business, turning a profit in the first year and growing from there on out. I took on dozens of regular clients and several large projects across London, building a loyal client base in a short space of time.
+In 2016 I founded my own landscape gardening business, turning a profit in the first year and growing from there on out. I took on hundreds of gardens, dozens of regular clients and several large projects across London, building a loyal client base in a short space of time.
 
 **2013-2015**
 *Grant Writer for the John Rylands Research Institute at the University of Manchester* 
-Lorem ipsum
+- Copy-editor/copy-writer on several books, articles, and funding applications both for myself and for others.
+- Wrote, prepared, proofed, and edited grants, and coordinated the grant-writing process in general. Also responsible for organizing meetings with prospective applicants, liaising with applicants to ensure deadlines are met, and researching potential sources of funding and bringing them to applicants’ attention.
+- Also carried out promitonal activities, such as maintaining contact with the research office to spread awareness of the Institute and writing copy to appear in research newsletters and bulletins.
 
 **2012-2015**
 Research Administrator on ‘Arabic Commentaries on the Hippocratic Aphorisms’ Project at the University of Manchester. 
-Lorem ipsum
+
+- Responsible for proofing and editing funding applications and publications for the principal investigator and other applicants.
+- Gained valuable experience working as part of a team, liaising with various departments and institutions, and arranging events.
+
+**2012-2014**
+Teacher/Graduate Teaching Assistant
+
+- Led ten different seminar groups (several dozen classes) over the course of two years, teaching Latin, Roman and Greek history as well as teaching crash courses in Latin and Ancient Greek for prospective students in 2011 and 2012.
 
 
 # Skills 
