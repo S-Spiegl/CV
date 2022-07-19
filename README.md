@@ -1,4 +1,4 @@
-# From MySpace to Makers
+# From MySpace to Makers (the scenic route)
 
 Fullstack software engineer who arrived late to the coding party, but plans to be the last out the door. Coder by day, coder by night, and horticulturalist, birdwatcher, and woodturner the rest of the time. I spent a long time looking for the right industry, having worked in academia, copyediting, grant-acquisition, administration and landscaping among (sometimes literally) other fields, but I now know I'm where I'm meant to be. Having gotten my first taste of coding as a teenager, tinkering with HTML to customise a MySpace page, I largely forgot about it for several years, having fallen victim to the assumption that software development is for those who study maths or computer science, and taking a more humanities-focused route. However, at the end of 2021, I began taking online courses and rediscovered my love for coding, and decided to apply for Makers bootcamp. I have a growth mindset, and relish the opportunity to work in a field where there is constantly the opportunity to learn new things. Having completed the intensive bootcamp at Makers Academy, I want to work at a company that offers the opportunity to grow myself and also contribute to society (an ethos which I incoprorated into my final project). 
 
@@ -13,9 +13,6 @@ Fullstack software engineer who arrived late to the coding party, but plans to b
 |   SQL         |               |                     |            |              |                 |
 |   Markdown    |               |                     |            |              |                 |
 
-
-#bring back frameworks - erb
- 
 
 # Projects
 
@@ -34,7 +31,6 @@ Fullstack software engineer who arrived late to the coding party, but plans to b
 |   Takeaway Challenge            | Solo    |  A REPL based app that used an external API to allow a user to order food and receive a text confirming their order.         | Ruby, Twilio           | 
 |   Rock, Paper, Scissors Challenge| Solo   |   An interactive game that allowed a user to play a game of Rock Paper Scissors, and my first time dabbling with HTML and CSS as part of the course.         | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5            | 
    
-
 
 # Experience/Appointments
 
@@ -71,7 +67,7 @@ Fullstack software engineer who arrived late to the coding party, but plans to b
 
 ####  Excellent communication skills
 - My time running London Clay Gardens has cemented my ability to communicate with clients and suppliers, and to delegate jobs from the top down. 
-- As administrator on the Arabic Aphorisms project I was responsible for delegating tasks to postdocs and PhDs on behalf of the PI, and communicating wishes/thoughts/feedback from the PI to the postdocs and PhDs and vice versa.
+- As administrator on the Arabic Aphorisms project I was responsible for delegating tasks to postdocs and PhDs on behalf of the Principal Investigator (PI), and communicating wishes/thoughts/feedback from the PI to the postdocs and PhDs and vice versa.
 - I have good personal and verbal skills. During my MA, PhD and time on the Arabic Aphorisms project, I gave various talks and papers to academic audiences, prospective students, and at the project launch. At the close of the Makers bootcamp, I delivered a joint presentation which received a very positive reception. 
 - As administrator on the Arabic Aphorisms project I served as liaison between the PI, team, and the wider administrative network of the University of Manchester, and external institutions and projects.  
 
@@ -148,21 +144,14 @@ Recognised as one of ten outstanding students in the Department of Classics and 
 
 #### London Wildlife Trust (Camley Street Nature Reserve)
 *(2015-2016)*
-
-Duties: Greeting and informing visitors; coppicing; pond clearance; composting; construction (e.g. benches). 
-Achievements: Received John Muir Discovery Award 
-
 #### RSPB - school outreach programme.
 *(2016)*
 
-
-
-
 # Additional community work
 
-Manchester Access Programme: immediately after finishing my PhD, rather than taking break, I took part in an outreach programme designed to get students from widening participation backgrounds into the University of Manchester, providing one-on-one coaching.
+*Manchester Access Programme:* immediately after finishing my PhD, rather than taking break, I took part in an outreach programme designed to get students from widening participation backgrounds into the University of Manchester, providing one-on-one coaching.
 
-Edge Lane Allotments, Manchester 
+*Edge Lane Allotments, Manchester*<br> 
 Achievements: Built greenhouse and raised beds; clearance; implemented communal beds; helped organise events to bring more people into scheme. 
 
 # Hobbies
