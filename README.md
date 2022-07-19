@@ -14,7 +14,7 @@ Fullstack software engineer who arrived late to the coding party, but plans to b
 |   Markdown    |               |                     |            |              |                 |
 
 
-# Projects
+# Selected Projects
 
 | Name                            | Type    | Description         | Technologies      | 
 | -------------                   | --------| ------------------- | ---------- | 
