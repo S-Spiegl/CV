@@ -12,6 +12,9 @@ Fullstack software engineer who arrived late to the coding party, but plans to b
 |   CSS3        | Redux         |   Capybara          |            |              |                 |
 |               | Sinatra       |                     |            |              |                 |
 |               | Express       |                     |            |              |                 |
+
+
+#bring back frameworks - erb
  
 
 # Projects
@@ -24,11 +27,11 @@ Fullstack software engineer who arrived late to the coding party, but plans to b
 |   Instagram Challenge           | Solo    |   An Instagram clone, built using  MongoDB, Express, Handlebars and Node.js.           |            | 
 |   Noughts and Crosses           | Solo    |   A solo challenge based off a potential tech-test, written in Javascript.         |            | 
 |   Bowling Challenge             | Solo    |  A solo weekend challenge, designed to allow a user to calculate their score in what is a deceptively complicated game.        |            | 
-|   Bowling Challenge JS       | Solo    |   The same as the bowling challenge, this time in Javascript.     |            | 
+|   Bowling Challenge JS       | Solo    |   The same as the bowling challenge, this time in Javascript.     | JavaScript           | 
 |   Bowling Challenge JS Redux       | Solo    |   The bowling challenge again, this time made using a walkthrough by John Forster (link).     |            | 
-|   Chitter Challenge             | Solo    |  A Twitter clone.         |            | 
-|   Chitter Challenge             | Solo    |  The same Twitter clone, this time with a pre-existing backend         |            | 
-|   Takeaway Challenge            | Solo    |  A REPL based app that used an external API to allow a user to order food and receive a text confirming their order.         |            | 
+|   Chitter Challenge             | Solo    |  A Twitter clone.         | Ruby, Capybara, PostgreSQL           | 
+|   Chitter Challenge             | Solo    |  The same Twitter clone, this time using a pre-existing backend         | JavaScript, HTML5           | 
+|   Takeaway Challenge            | Solo    |  A REPL based app that used an external API to allow a user to order food and receive a text confirming their order.         | Ruby, Twilio           | 
 |   Rock, Paper, Scissors Challenge| Solo   |   An interactive game that allowed a user to play a game of Rock Paper Scissors, and my first time dabbling with HTML and CSS as part of the course.         | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5            | 
 |   
 
