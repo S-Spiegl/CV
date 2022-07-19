@@ -132,7 +132,7 @@ AS-Level: English (C)
 **2012** Roman Society Bursary <br>
 £500 bursary for a two-week study visit to the Hardt Foundation for the Study of Classical Antiquity in Geneva. <br>
 **2009** AHRC Research Grant <br>
-Individual grant from the UK Arts and Humanities Research Council worth a total of £50,268. <br>
+Individual grant from the UK Arts and Humanities Research Council worth over £50K. <br>
 **2008** Taught Master’s Programme Bursary <br>
 A one-year fees award provided by the School of Arts, Histories and Cultures. <br>
 **2008** TBL Webster Prize <br>
