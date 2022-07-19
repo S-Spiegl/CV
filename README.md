@@ -1,17 +1,17 @@
-# About me
+# From MySpace to Makers
 
-Fullstack software engineer who arrived late to the coding party, but plans to be the last out the door. Coder by day, coder by night, and horticulturalist, birdwatcher, and woodturner the rest of the time. I spent a long time looking for the right industry, having worked in academia, copyediting, grant-acquisition, administration and landscaping among (sometimes literally) other fields, but I now know I'm where I'm meant to be. I have a growth mindset, and relish the opportunity to work in a field where there is contantly the opportunity to learn new things. Having completed the intensive bootcamp at Makers Academy, I want to work at a company that offers the opportunity to grow myself and also contribute to society (an ethos which I incoprorated into my final project). 
+Fullstack software engineer who arrived late to the coding party, but plans to be the last out the door. Coder by day, coder by night, and horticulturalist, birdwatcher, and woodturner the rest of the time. I spent a long time looking for the right industry, having worked in academia, copyediting, grant-acquisition, administration and landscaping among (sometimes literally) other fields, but I now know I'm where I'm meant to be. Having gotten my first taste of coding as a teenager, tinkering with HTML to customise a MySpace page, I largely forgot about it for several years, having fallen victim to the assumption that software development is for those who study maths or computer science, and taking a more humanities-focused route. However, at the end of 2021, I began taking online courses and rediscovered my love for coding, and decided to apply for Makers bootcamp. I have a growth mindset, and relish the opportunity to work in a field where there is constantly the opportunity to learn new things. Having completed the intensive bootcamp at Makers Academy, I want to work at a company that offers the opportunity to grow myself and also contribute to society (an ethos which I incoprorated into my final project). 
 
 # Tech skills
 
-| Languages     | Libraries     | Testing             | Databases  | Environments | Version Control |
-| ------------- | ------------- | ------------------- | ---------- | ------------ | --------------- |
-|   Javascript  | Handlebars    |   Jest              |  MongoDB   |  IRB         | Git             |
-|   Ruby        | React         |   RSpec             | PostgreSQL |   Node.js    |                 |
-|   HTML5       | Mongoose      |   Cypress           |            |              |                 |
-|   CSS3        | Redux         |   Capybara          |            |              |                 |
-|               | Sinatra       |                     |            |              |                 |
-|               | Express       |                     |            |              |                 |
+| Languages     | Libraries     | Testing             | Databases  | Environments | Frameworks      | Other Technologies |
+| ------------- | ------------- | ------------------- | ---------- | ------------ | --------------- | ---------- |
+|   Javascript  | React         |   Jest              |  MongoDB   |  IRB         | Express         |  Git
+|   Ruby        | Mongoose      |   RSpec             | PostgreSQL |  Node.js     | Sinatra         |  Handlebars
+|   HTML5       | Redux         |   Cypress           |            |              |                 |  ERB
+|   CSS3        |               |   Capybara          |            |              |                 |  VIM
+|   SQL         |               |                     |            |              |                 |
+|   Markdown    |               |                     |            |              |                 |
 
 
 #bring back frameworks - erb
@@ -58,8 +58,8 @@ Fullstack software engineer who arrived late to the coding party, but plans to b
 **2012-2014**<br>
 *Teacher/Graduate Teaching Assistant*
 
-- Led ten different seminar groups (amounting to around a hundred classes) over the course of two years, teaching Latin, Roman and Greek history as well as teaching crash courses in Latin and Ancient Greek for prospective students in 2011 and 2012 while also completing my PhD and working in as an administrator and grant-writer. 
-- This proved helpful in the context of the course when I needed to explain concepts and principles to fellow students, since much of the course revolved around self-directed learning, as well as knowing how to provide constructive feedback when carrying out code-reviews. 
+- Led ten different seminar groups (amounting to over a hundred classes) over the course of two years, teaching Latin, Roman and Greek history as well as teaching crash courses in Latin and Ancient Greek for prospective students in 2011 and 2012 while also completing my PhD and working in as an administrator and grant-writer. 
+- This proved helpful in the context of the course when I needed to explain concepts and principles to fellow students (since much of the course revolved around self-directed learning), as well as knowing how to provide constructive feedback when carrying out code-reviews. 
 
 
 # Skills 
@@ -105,6 +105,8 @@ Fullstack software engineer who arrived late to the coding party, but plans to b
 - Learned a number of new languages, frameworks and techniques in a period of 16 weeks (4 weeks part-time, 12 weeks full-time), as detailed in the table above.
 Worked remotely and onsite, practising solo working, pair-programming, mobbing, and producing three main projects as a team as well as several weekend projects on my own.
 - Improved my interpersonal and teamworking skills, adhering to an agile methodology and producing work to strict deadlines.
+During the final project, I learned a new framework from scratch and implemented several features on my own when time was of the essence and we had to split into smaller groups. For example, having worked as part of a team to implement the sign-up route, I was responsible for defining the login route on my own, charting a path from front to back to front end, implementing encryption, and working out how to implement a dropdown menu for both sign-up and login, which I did outside of office hours so as to make sure we were able to keep to schedule. I also took on a lot of front-end responsibilities, sharing my knowledge of CSS and especially flexbox to solve some of the issues we were having.
+- 
 
 
 #### Capel Manor
@@ -144,11 +146,17 @@ Recognised as one of ten outstanding students in the Department of Classics and 
 
 # Volunteering
 
-London Wildlife Trust (Camley Street Nature Reserve) 
+#### London Wildlife Trust (Camley Street Nature Reserve)
+*(2015-2016)*
+
 Duties: Greeting and informing visitors; coppicing; pond clearance; composting; construction (e.g. benches). 
 Achievements: Received John Muir Discovery Award 
 
-RSPB - school outreach programme.
+#### RSPB - school outreach programme.
+*(2016)*
+
+
+
 
 # Additional community work
 
