@@ -4,29 +4,32 @@ Fullstack software engineer who arrived late to the coding party, but plans to b
 
 # Tech skills
 
-| Languages     | Libraries     | Frameworks          | Databases  | Environments | Version Control |
+| Languages     | Libraries     | Testing             | Databases  | Environments | Version Control |
 | ------------- | ------------- | ------------------- | ---------- | ------------ | --------------- |
 |   Javascript  | Handlebars    |   Jest              |  MongoDB   |  IRB         | Git             |
 |   Ruby        | React         |   RSpec             | PostgreSQL |   Node.js    |                 |
 |   HTML5       | Mongoose      |   Cypress           |            |              |                 |
 |   CSS3        | Redux         |   Capybara          |            |              |                 |
-
+|               | Sinatra       |                     |            |              |                 |
+|               | Express       |                     |            |              |                 |
+ 
 
 # Projects
 
 | Name                            | Type    | Description         | Technologies      | 
 | -------------                   | --------| ------------------- | ---------- | 
-|   Brains on Brioche             | Group   | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.                | JavaScript, Node.js, Express, Mongoose, MongoDB, HTML5, CSS3, Jest, Cypress, React, Redux           | 
-|   Acebook                       | Group   |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.             | JavaScript, Node.js, Express, Handblebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress | 
-|   Makers BnB                    | Group   |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.             | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5, PostgreSQL | 
-|   Instagram Challenge           | Solo    |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.           |            | 
-|   Noughts and Crosses           | Solo    |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.         |            | 
-|   Bowling Challenge             | Solo    |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.        |            | 
-|   Bowling Challenge JS       | Solo    |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.     |            | 
-|   Bowling Challenge JS Redux       | Solo    |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.     |            | 
-|   Chitter Challenge             | Solo    |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.         |            | 
-|   Takeaway Challenge            | Solo    |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.         |            | 
-|   Rock, Paper, Scissors Challenge| Solo   |   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.         | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5            | 
+|   Brains on Brioche             | Group   | An app built using the MERN stack, designed to prevent food waste. BoB allows users with either an empty or an overflowing fridge to find original recipes using an external API and a cloud-based database, complete with separate front-end and back-ends for maintenance and scalability.                | JavaScript, Node.js, Express, Mongoose, MongoDB, HTML5, CSS3, Jest, Cypress, React, Redux           | 
+|   Acebook                       | Group   |   A Facebook clone built using MongoDB, Express, Handlebars and Node.js.             | JavaScript, Node.js, Express, Handblebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress | 
+|   Makers BnB                    | Group   |   An AirBnB clone using Ruby, Sinatra and PostgreSQL.              | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5, PostgreSQL | 
+|   Instagram Challenge           | Solo    |   An Instagram clone, built using  MongoDB, Express, Handlebars and Node.js.           |            | 
+|   Noughts and Crosses           | Solo    |   A solo challenge based off a potential tech-test, written in Javascript.         |            | 
+|   Bowling Challenge             | Solo    |  A solo weekend challenge, designed to allow a user to calculate their score in what is a deceptively complicated game.        |            | 
+|   Bowling Challenge JS       | Solo    |   The same as the bowling challenge, this time in Javascript.     |            | 
+|   Bowling Challenge JS Redux       | Solo    |   The bowling challenge again, this time made using a walkthrough by John Forster (link).     |            | 
+|   Chitter Challenge             | Solo    |  A Twitter clone.         |            | 
+|   Chitter Challenge             | Solo    |  The same Twitter clone, this time with a pre-existing backend         |            | 
+|   Takeaway Challenge            | Solo    |  A REPL based app that used an external API to allow a user to order food and receive a text confirming their order.         |            | 
+|   Rock, Paper, Scissors Challenge| Solo   |   An interactive game that allowed a user to play a game of Rock Paper Scissors, and my first time dabbling with HTML and CSS as part of the course.         | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5            | 
 |   
 
 
@@ -34,13 +37,13 @@ Fullstack software engineer who arrived late to the coding party, but plans to b
 
 **2016-2022**<br>
 *London Clay Gardens: Founder and owner*<br>
-In 2016 I founded my own landscape gardening business, turning a profit in the first year and growing from there on out. I took on hundreds of gardens, dozens of regular clients and several large projects across London, building a loyal client base in a short space of time.
+- In 2016 I founded my own landscape gardening business, turning a profit in the first year and growing from there on out. I took on hundreds of gardens, dozens of regular clients and several large projects across London, building a loyal client base in a short space of time.
 
 **2013-2015**
 *Grant Writer for the John Rylands Research Institute at the University of Manchester* 
 - Copy-editor/copy-writer on several books, articles, and funding applications both for myself and for others.
-- Wrote, prepared, proofed, and edited grants, and coordinated the grant-writing process in general. Also responsible for organizing meetings with prospective applicants, liaising with applicants to ensure deadlines are met, and researching potential sources of funding and bringing them to applicants’ attention.
-- Also carried out promitonal activities, such as maintaining contact with the research office to spread awareness of the Institute and writing copy to appear in research newsletters and bulletins.
+- Wrote, prepared, proofed, and edited grants, and coordinated the grant-writing process in general. Also responsible for organizing meetings with prospective applicants, liaising with applicants to ensure deadlines were met, and researching potential sources of funding and bringing them to applicants’ attention.
+- Also carried out promotional activities, such as maintaining contact with the research office to spread awareness of the Institute and writing copy to appear in research newsletters and bulletins.
 
 **2012-2015**
 Research Administrator on ‘Arabic Commentaries on the Hippocratic Aphorisms’ Project at the University of Manchester. 
@@ -51,13 +54,16 @@ Research Administrator on ‘Arabic Commentaries on the Hippocratic Aphorisms’
 **2012-2014**
 Teacher/Graduate Teaching Assistant
 
-- Led ten different seminar groups (several dozen classes) over the course of two years, teaching Latin, Roman and Greek history as well as teaching crash courses in Latin and Ancient Greek for prospective students in 2011 and 2012.
+- Led ten different seminar groups (several dozen classes) over the course of two years, teaching Latin, Roman and Greek history as well as teaching crash courses in Latin and Ancient Greek for prospective students in 2011 and 2012 while also completing my PhD and working in as an administrator and grant-writer. 
+- This proved helpful in the context of the course when I needed to explain concepts and principles to other students, since much of the course revolved around self-directed learning, as well as knowing how to provide constructive feedback when carrying out code-reviews. 
 
 
 # Skills 
 
 Software Specific
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+- During my time at Makers I have honed my abilities not only as a software developer but as someone who is able to produce work in a short space of time using an agile methodology, sprints, pair-programming, mobbing, stand-ups, retros and careful diagramming. 
+- A strong proponent of Test Driven Development, with 
 
 Excellent communication skills
 - My time running London Clay Gardens has cemented my ability to communicate with clients and suppliers, and to delegate jobs from the top down. 
@@ -66,7 +72,7 @@ Excellent communication skills
 - As administrator on the Arabic Aphorisms project I served as liaison between the PI, team, and the wider administrative network of the University of Manchester, and external institutions and projects.  
 
 Organised and adaptable
-- I am able to operate to deadlines and to manage my workload. London Clay Gardens - planning and scheduling projects to avoid overlap or gaps between jobs, working around the British weather, managing the expectations of clients. Lots of plates need to be kept spinning. 
+- I am able to operate to deadlines and to manage my workload. London Clay Gardens - planning and scheduling projects to avoid overlap or gaps between jobs, working around the British weather, managing the expectations of clients. Lots of plates need to be constantly kept spinning, and I am pleased to be able to say that they were. 
 - As a research administrator and as a grant writer, good communication, group-coordination, and the ability to work alone and show initiative were all essential, and these skills have also proved invaluable in running my business and carrying out jobs of various different scales. 
 - I successfully completed a PhD while teaching and working on the ‘Arabic Aphorisms’ project, often assuming extra duties and working overtime with regard to the latter. 
 - As administrator I organised and ran international workshops, arranged travel and accommodation for visiting scholars, created purchase orders and paid invoices, booked rooms for meetings and events, liaised with the IT dept. to resolve any technical issues, and was responsible for the timesheets of the entire research team. I also took and distributed minutes for the monthly meetings, as well as maintaining the shared drive and the project website. 
