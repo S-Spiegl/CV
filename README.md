@@ -22,7 +22,7 @@ Fullstack software engineer who arrived late to the coding party, but plans to b
 |   <a href="https://lacebook.herokuapp.com/">Acebook</a>                       | Group   |   A Facebook clone built using MongoDB, Express, Handlebars and Node.js.             | JavaScript, Node.js, Express, Handblebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress | 
 |   <a href="https://github.com/ErlantzR/MakersBnB">Makers BnB</a>                    | Group   |   An AirBnB clone using Ruby, Sinatra and PostgreSQL.              | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5, PostgreSQL | 
 |   Instagram Challenge           | Solo    |   An Instagram clone, built using  MongoDB, Express, Handlebars and Node.js.           | JavaScript, Node.js, Express, Handblebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress            | 
-|   Noughts and Crosses           | Solo    |   A solo challenge based off a potential tech-test, written in Javascript.         | JavaScript            | 
+|   <a href="https://github.com/S-Spiegl/Noughts-and-crosses">Noughts and Crosses</a>           | Solo    |   A solo challenge based off a potential tech-test, written in Javascript.         | JavaScript            | 
 |   Bowling Challenge             | Solo    |  A solo weekend challenge, designed to allow a user to calculate their score in what is a deceptively complicated game.        | Ruby           | 
 |   Bowling Challenge JS       | Solo    |   The same as the bowling challenge, this time in Javascript.     | JavaScript           | 
 |   Bowling Challenge JS Redux       | Solo    |   The bowling challenge again, this time made using a walkthrough by John Forster (link).     | JavaScript           | 
