@@ -86,6 +86,7 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 
 #### A sharp eye for detail
 - I offered proofing and editing services to my PI on the Arabic Aphorisms project, as well as on articles and for his book, *The Mirror of Health: Discovering Medicine in the Golden Age of Islam (2013)*. I also proofed, edited, collated and standardised the CVs of applicants on funding applications. 
+- copy-editing = presentation, front-end, appearances matter... but also means being good at looking for errors. Cuts down on bugs and helps me when looking for them. Well-trained eye. 
 - My work has given me insight into how the horticultural industry can benefit from apps - links between what I do now and what I want to do
 
 #### Aptitude for languages
