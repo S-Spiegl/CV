@@ -26,10 +26,10 @@ Fullstack software engineer who arrived late to the coding party, but plans to b
 |   Bowling Challenge             | Solo    |  A solo weekend challenge, designed to allow a user to calculate their score in what is a deceptively complicated game.        | Ruby           | 
 |   Bowling Challenge JS       | Solo    |   The same as the bowling challenge, this time in Javascript.     | JavaScript           | 
 |   Bowling Challenge JS Redux       | Solo    |   The bowling challenge again, this time made using a walkthrough by John Forster (link).     | JavaScript           | 
-|   Chitter Challenge             | Solo    |  A Twitter clone.         | Ruby, Capybara, PostgreSQL           | 
+|   <a href="https://github.com/S-Spiegl/chitter-challenge">Chitter Challenge</a>             | Solo    |  A Twitter clone.         | Ruby, Capybara, PostgreSQL           | 
 |   Chitter Challenge             | Solo    |  The same Twitter clone, this time using a pre-existing backend         | JavaScript, HTML5           | 
 |   Takeaway Challenge            | Solo    |  A REPL based app that used an external API to allow a user to order food and receive a text confirming their order.         | Ruby, Twilio           | 
-|   Rock, Paper, Scissors Challenge| Solo   |   An interactive game that allowed a user to play a game of Rock Paper Scissors, and my first time dabbling with HTML and CSS as part of the course.         | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5            | 
+|   <a href="https://github.com/S-Spiegl/rps-challenge">Rock, Paper, Scissors Challenge</a>| Solo   |   An interactive game that allowed a user to play a game of Rock Paper Scissors, and my first time dabbling with HTML and CSS as part of the course.         | Ruby, Rspec, Sinatra, Capybara, CSS3, HTML5            | 
    
 
 # Experience/Appointments
