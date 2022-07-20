@@ -149,7 +149,7 @@ Recognised as one of ten outstanding students in the Department of Classics and 
 
 # Additional community work
 
-*Manchester Access Programme:* immediately after finishing my PhD, rather than taking break, I took part in an outreach programme designed to get students from widening participation backgrounds into the University of Manchester, providing one-on-one coaching.
+*Manchester Access Programme:* immediately after finishing my PhD, rather than taking a break, I took part in an outreach programme designed to get students from widening participation backgrounds into the University of Manchester, providing one-on-one coaching.
 
 *Edge Lane Allotments, Manchester*<br> 
 Achievements: Built greenhouse and raised beds; clearance; implemented communal beds; helped organise events to bring more people into scheme. 
