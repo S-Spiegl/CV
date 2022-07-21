@@ -106,15 +106,12 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 - Learned a number of new languages, frameworks and techniques in a period of 16 weeks (4 weeks part-time, 12 weeks full-time), as detailed in the table above.
 Worked remotely and onsite, practising solo working, pair-programming, mobbing, and producing three main projects as a team as well as several weekend projects on my own.
 - Improved my interpersonal and teamworking skills, adhering to an agile methodology and producing work to strict deadlines.
-During the final project, I learned a new framework from scratch and implemented several features on my own when time was of the essence and we had to split into smaller groups. For example, having worked as part of a team to implement the sign-up route, I was responsible for defining the login route on my own, charting a path from front to back to front end, implementing encryption, and working out how to implement a dropdown menu for both sign-up and login, which I did outside of office hours so as to make sure we were able to keep to schedule. I also took on a lot of front-end responsibilities, sharing my knowledge of CSS and especially flexbox to solve some of the issues we were having.
-- 
+- During the final project, I learned a new framework from scratch and implemented several features on my own when time was of the essence and we had to split into smaller groups. For example, having worked as part of a team to implement the sign-up route, I was responsible for defining the login route on my own, charting a path from front to back to front end, implementing encryption, and working out how to implement a dropdown menu for both sign-up and login, which I did outside of office hours so as to make sure we were able to keep to schedule. I also took on a lot of front-end responsibilities, sharing my knowledge of CSS and especially flexbox to solve some of the issues we were having.
 
-
-#### Capel Manor
+#### Capel Manor College
 *(2015-2016)*
 
 Level 3 Diploma in Countryside Management. (Distinction in every module) 
-
 
 #### University of Manchester
 *(2005-2013)*
