@@ -65,10 +65,10 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 - During my time at Makers I have honed my abilities as a software developer, producing work in a short space of time using an agile methodology, sprints, pair-programming, mobbing, stand-ups, retros and careful diagramming. 
 - A strong proponent of Test Driven Development, - expand - OOP, MVC, separation of frontend and backend... 
 
-####  Excellent communication skills
+####  Excellent communication and presentation skills
 - My time running London Clay Gardens has cemented my ability to communicate with clients and suppliers, and to delegate jobs from the top down. 
-- As administrator on the Arabic Aphorisms project I was responsible for delegating tasks to postdocs and PhDs on behalf of the Principal Investigator (PI), and communicating wishes/thoughts/feedback from the PI to the postdocs and PhDs and vice versa.
-- I have good personal and verbal skills. During my MA, PhD and time on the Arabic Aphorisms project, I gave various talks and papers to academic audiences, prospective students, and at the project launch. At the close of the Makers bootcamp, I delivered a joint presentation which received a very positive reception. 
+- I have good personal and verbal skills. During my MA, PhD and time on the Arabic Aphorisms project, I gave various talks and papers to academic audiences, prospective students, and at the project launch. At the close of the Makers bootcamp, I delivered a joint presentation which received a very positive reception, and can be watched here:
+[![test]()](<iframe width="1920" height="750" src="https://www.youtube.com/embed/iFInzKR8BWs" title="Makers Demo Day: April 22 Cohort" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>) 
 - As administrator on the Arabic Aphorisms project I served as liaison between the PI, team, and the wider administrative network of the University of Manchester, and external institutions and projects.  
 
 #### Organised and adaptable
