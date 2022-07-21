@@ -1,6 +1,6 @@
 # From MySpace to Makers (the scenic route)
 
-Fullstack software engineer who arrived late to the coding party, but has no intention of leaving anytime soon. Coder by day, coder by night, and horticulturalist, birdwatcher, and woodturner the rest of the time. I spent a long time looking for the right industry, having worked in academia, copyediting, grant-acquisition, administration and landscaping among (sometimes literally) other fields, but I now know I'm where I'm meant to be. Having gotten my first taste of coding as a teenager, tinkering with HTML to customise a MySpace page, I largely forgot about it for several years, having fallen victim to the assumption that software development is for those who study maths or computer science, and taking a more humanities-focused route. However, at the end of 2021, I began taking online courses and rediscovered my love for coding, and decided to apply for Makers bootcamp. I have a growth mindset, and relish the opportunity to work in a field where there is constantly the opportunity for self-directed learning and to learn new things. Having completed the intensive bootcamp at Makers Academy, I want to work at a company that offers the opportunity to grow myself and also contribute to society (an ethos which I incoprorated into my final project). 
+Fullstack software engineer who arrived late to the coding party, but has no intention of leaving anytime soon. Coder by day, coder by night, and horticulturalist, birdwatcher, woodturner and repository of random facts the rest of the time. I spent a long time looking for the right industry, having worked in academia, copyediting, grant-acquisition, administration and landscaping among (sometimes literally) other fields, but I now know I'm where I'm meant to be. Having gotten my first taste of coding as a teenager, tinkering with HTML to customise a MySpace page, I largely forgot about it for several years, having fallen victim to the assumption that software development is for those who study maths or computer science, and taking a more humanities-focused route. However, at the end of 2021, I began taking online courses and rediscovered my love for coding, and decided to apply for Makers bootcamp. I have a growth mindset, and relish the opportunity to work in a field where there is constantly the opportunity for self-directed learning and to learn new things. Having completed the intensive bootcamp at Makers Academy, I want to work at a company that offers the opportunity to grow myself and also contribute to society (an ethos which I incorporated into my final project). 
 
 # Tech skills
 
@@ -65,22 +65,25 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 - During my time at Makers I have honed my abilities as a software developer, producing work in a short space of time using an agile methodology, sprints, pair-programming, mobbing, stand-ups, retros and careful diagramming. 
 - A strong proponent of Test Driven Development, - expand - OOP, MVC, separation of frontend and backend... 
 
-####  Excellent communication and presentation skills
+####  Excellent communication, presentation and personal skills
 - My time running London Clay Gardens has cemented my ability to communicate with clients and suppliers, and to delegate jobs from the top down. 
-- I have good personal and verbal skills. During my MA, PhD and time on the Arabic Aphorisms project, I gave various talks and papers to academic audiences, prospective students, and at the project launch.
-- A background in performing means that I have excellent delivery skills. At the close of the Makers bootcamp, I delivered a joint presentation which received a very positive reception, and can be watched here:<br>
+- During my MA, PhD and time on the Arabic Aphorisms project, I gave various talks and papers to academic audiences, prospective students, and at the project launch.
+- A background in performing and giving talks and papers means that I have excellent delivery skills. At the close of the Makers bootcamp, I delivered a joint presentation which received an extremely positive reception, and can be watched here:<br>
 [![test](presentation.png)]([https://www.youtube.com/embed/iFInzKR8BWs](https://youtu.be/iFInzKR8BWs?t=1170))<br>
-- As administrator on the Arabic Aphorisms project I served as liaison between the PI, team, and the wider administrative network of the University of Manchester, and external institutions and projects.  
+- As administrator on the Arabic Aphorisms project I served as liaison between the PI, team, the wider administrative network of the University of Manchester, and external institutions and projects.  
 
 #### Organised and adaptable
-- I am able to operate to deadlines and to manage my workload. During my time running London Clay Gardens, I had to plan and schedule projects to avoid overlap or gaps between jobs, work around the British weather, and manage the expectations of clients. Lots of plates needed to be constantly kept spinning, and I am pleased to be able to say that they remained in motion for as long as was necessary. 
+- I am able to operate to deadlines and to manage my workload. During my time running London Clay Gardens, I had to plan and schedule projects to avoid overlap or gaps between jobs, work around the British weather, and manage the expectations of clients. Lots of plates needed to be - and were - constantly kept spinning.
 - As a research administrator and as a grant writer, good communication, group-coordination, and the ability to work alone and show initiative were all essential, and these skills have also proved invaluable in running my business and carrying out jobs of various different scales. 
 - I successfully completed a PhD while teaching and working on the ‘Arabic Aphorisms’ project, often assuming extra duties and working overtime with regard to the latter. 
-- As administrator I organised and ran international workshops, arranged travel and accommodation for visiting scholars, created purchase orders and paid invoices, booked rooms for meetings and events, liaised with the IT dept. to resolve any technical issues, and was responsible for the timesheets of the entire research team. I also took and distributed minutes for the monthly meetings, as well as maintaining the shared drive and the project website. Ultimately, I was responsible for a lot of organisation and flexibility. 
-- In running London Clay Gardens, I have had to manage every aspect of the business and keep on top of the different facets - HMRC, various insurances, record-keeping, client-management, scheduling, tool- and vehicle-maintenance etc were all my vital to a functioning business and were all my responsibility. 
+- As administrator I organised and ran international workshops, arranged travel and accommodation for visiting scholars, created purchase orders and paid invoices, booked rooms for meetings and events, liaised with the IT dept. to resolve any technical issues, and was responsible for the timesheets of the entire research team. I also took and distributed minutes for the monthly meetings, as well as maintaining the shared drive and the project website.  
+- In running London Clay Gardens, I have had to manage every aspect of the business and keep on top of the different facets - HMRC, various insurances, record-keeping, client-management, scheduling, tool- and vehicle-maintenance etc were all vital to a functioning business and were all my responsibility. 
 
-#### Maths
-- Running my own business, especially one that is construction based, has led me to become adept in practical maths. Every landscaping job entails careful planning and calculation to ensure that there is neither surplus nor deficit, and that the finished project will be safe, and a few millimetres can be the difference between achieving the desired outcome and wasting time and materials. Volume, load-capacity, and budget are just some of the aspects of a standard project that require careful attention to detail and a willingness to carry out regular calculations, and this perhaps one of the reasons I have taken such a shine to TDD. Aside from the construction aspect of the job, it is necessary to have a clear and ergonomic approach to invoicing, record-keeping, budgeting and fiscal responsibilities to ensure that the administrative side of the business runs smoothly, and such detail-orientation would be of use both in the context of coding and in any modern work-environment. 
+#### Quick-thinking, solution-oriented, positive-mindset. 
+- I was unable to attend the Makers Careers Fair immediately after graduating, due to catching my first ever case of Covid-19. I came up with a plan whereby a kind friend and coursemate, Farzan Imanzadeh, let me meet hiring partners via video chat on his phone, allowing me to ask questions and network remotely.
+
+#### Mathematical precision
+- Running my own business, especially one that is construction based, has led me to become adept in practical maths. Every landscaping job entails careful planning and calculation to ensure that there is neither surplus nor deficit, and that the finished project will be safe, and a few millimetres can be the difference between achieving the desired outcome and wasting time and materials. Volume, load-capacity, and budget are just some of the aspects of a standard project that require careful attention to detail and a willingness to carry out regular calculations, and this perhaps one of the reasons I have taken such a shine to TDD. Aside from the construction aspect of landscape gardening industry, it was necessary to have a clear and ergonomic approach to invoicing, record-keeping, budgeting and fiscal responsibilities to ensure that the administrative side of the business runs smoothly, and such detail-orientation would be of use both in the context of coding and in any modern work-environment. 
 
 #### Curious
 - I have a curious mind, for which software engineering has proved the perfect outlet. I won’t rest until I solve a puzzle. I love learning, and I enjoy the idea that coding is a versatile, immersive and constantly changing field in which there is always more to discover.
@@ -116,9 +119,9 @@ Level 3 Diploma in Countryside Management. (Distinction in every module)
 #### University of Manchester
 *(2005-2013)*
 - PhD in Classics and Ancient History (2009-2013) - successfully defended
-- MA in Ancient World Studies (2008-2009) - Distinction 
-- BA (Hons) in Ancient History (2005-2008) - First
-- Took a number of languages (some for credit, some audited): Latin, Greek, Academic German, Academic Italian.
+- MA in Ancient World Studies (2008-2009) - Grade: Distinction 
+- BA (Hons) in Ancient History (2005-2008) - Grade: First
+- Took a number of languages (some for credit, some audited): Latin, Ancient Greek, Academic German, Academic Italian.
 - Audited a papyrology course, where we were taught to decipher a new form of a familiar language (the handwritten Ancient Greek found on these documents is very different to the printed texts we had learned from), a transition which bears some similarities to transitioning from Ruby to JavaScript to Python. 
 - Received a number of awards and bursaries (see below)
 
@@ -151,10 +154,15 @@ Recognised as one of ten outstanding students in the Department of Classics and 
 
 # Additional community work
 
-*Manchester Access Programme:* immediately after finishing my PhD, rather than taking a break, I took part in an outreach programme designed to get students from widening participation backgrounds into the University of Manchester, providing one-on-one coaching.
+*Manchester Access Programme (2013)* immediately after finishing my PhD, rather than taking a break, I took part in an outreach programme designed to get students from widening participation backgrounds into the University of Manchester, providing one-on-one coaching.
 
-*Edge Lane Allotments, Manchester*<br> 
+*Edge Lane Allotments, Manchester (2014-2015)*<br> 
 Achievements: Built greenhouse and raised beds; clearance; implemented communal beds; helped organise events to bring more people into scheme. 
 
 # Hobbies
-
+#### Gardening
+- It's not always a bad thing to take your work home with you... My gift to myself upon graduating Makers was 3m<sup>3</sup> of topsoil.
+#### Woodturning/woodwork/building things
+- I have my own lathe, and use it to make things like bowls, lamps, bottle-openers, rattles, vases, loose-change recepticles... anything as long as it's spherical/cylindrical. 
+#### Music/performing
+- I play guitar and piano, and was in several bands during and after my time at uni, as well as performing solo. I was also in the University of Manchester German Society play three years in a row
