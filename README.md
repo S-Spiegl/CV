@@ -68,7 +68,7 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 ####  Excellent communication and presentation skills
 - My time running London Clay Gardens has cemented my ability to communicate with clients and suppliers, and to delegate jobs from the top down. 
 - I have good personal and verbal skills. During my MA, PhD and time on the Arabic Aphorisms project, I gave various talks and papers to academic audiences, prospective students, and at the project launch. At the close of the Makers bootcamp, I delivered a joint presentation which received a very positive reception, and can be watched here:
-[![test](presentation.png)](https://www.youtube.com/embed/iFInzKR8BWs) 
+[![test](presentation.png)]([https://www.youtube.com/embed/iFInzKR8BWs](https://youtu.be/iFInzKR8BWs?t=1170)) 
 - As administrator on the Arabic Aphorisms project I served as liaison between the PI, team, and the wider administrative network of the University of Manchester, and external institutions and projects.  
 
 #### Organised and adaptable
