@@ -64,7 +64,8 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 #### Software Specific
 
 - During my time at Makers I have honed my abilities as a software developer, producing work in a short space of time using an agile methodology, sprints, pair-programming, mobbing, stand-ups, retros and careful diagramming. 
-- A strong proponent of Test Driven Development, - expand - OOP, MVC, separation of frontend and backend... 
+- A strong proponent of Test Driven Development, Object Oriented Programming, and the separation of front and backend. For my final project, I produced a scalable app with a microservices architecture. 
+- [EXPAND]
 
 ####  Excellent communication, presentation and personal skills
 - My time running London Clay Gardens has cemented my ability to communicate with clients and suppliers, and to delegate jobs from the top down. 
@@ -81,7 +82,7 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 - In running London Clay Gardens, I have had to manage every aspect of the business and keep on top of the different facets - HMRC, various insurances, record-keeping, client-management, scheduling, tool- and vehicle-maintenance etc were all vital to a functioning business and were all my responsibility. 
 
 #### Quick-thinking, solution-oriented, positive-mindset. 
-- I was unable to attend the Makers Careers Fair immediately after graduating, due to catching my first ever case of Covid-19. I came up with a plan whereby a kind friend and coursemate, Farzan Imanzadeh, let me meet hiring partners via video chat on his phone, allowing me to ask questions and network remotely.
+- I was unable to attend the Makers Careers Fair immediately after graduating, due to catching my first ever case of Covid-19. I came up with a plan whereby a kind friend and coursemate let me meet hiring partners via video chat on his phone, allowing me to ask questions and network remotely. I feel this demonstrates my ability to move quickly in a changing environment, my determination to be involved, and the fact that I am not to be afraid to stand out.  
 
 #### Mathematical precision
 - Running my own business, especially one that is construction based, has led me to become adept in practical maths. Every landscaping job entails careful planning and calculation to ensure that there is neither surplus nor deficit, and that the finished project will be safe, and a few millimetres can be the difference between achieving the desired outcome and wasting time and materials. Volume, load-capacity, and budget are just some of the aspects of a standard project that require careful attention to detail and a willingness to carry out regular calculations, and this perhaps one of the reasons I have taken such a shine to TDD. Aside from the construction aspect of landscape gardening industry, it was necessary to have a clear and ergonomic approach to invoicing, record-keeping, budgeting and fiscal responsibilities to ensure that the administrative side of the business runs smoothly, and such detail-orientation would be of use both in the context of coding and in any modern work-environment. 
@@ -92,7 +93,7 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 #### A sharp eye for detail
 - I offered proofing and editing services to my PI on the Arabic Aphorisms project, as well as on articles and for his book, *The Mirror of Health: Discovering Medicine in the Golden Age of Islam (2013)*. I also proofed, edited, collated and standardised the CVs of applicants on funding applications. 
 - copy-editing = presentation, front-end, appearances matter... but also means being good at looking for errors. Cuts down on bugs and helps me when looking for them. Well-trained eye. 
-- My work has given me insight into how the horticultural industry can benefit from apps - links between what I do now and what I want to do
+- My work has given me insight into how the horticultural industry can benefit from apps - links between what I do now and what I want to do [EXPAND]
 
 #### Aptitude for languages
 - Prior to founding my business, my background was in academia, and involved translating from ancient and modern languages. Just as I enjoy the relationship between scripts and syntaxes found in different human languages, I’ve enjoyed seeing how coding languages complement each other.
