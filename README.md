@@ -99,16 +99,14 @@ Level 3 Diploma in Countryside Management. (Distinction in every module)
 
 # Awards and Grants
 
-**2015** John Muir Award <br>
-**2012** Roman Society Bursary <br>
-£500 bursary for a two-week study visit to the Hardt Foundation for the Study of Classical Antiquity in Geneva. <br>
-**2009** AHRC Research Grant <br>
+**Roman Society Bursary (2012)** - 
+£500 bursary for a two-week study visit to the Fondation Hardt in Geneva. <br>
+**AHRC Research Grant (2009)** - 
 Individual grant from the UK Arts and Humanities Research Council worth over £50K. <br>
-**2008** Taught Master’s Programme Bursary <br>
-A one-year fees award provided by the School of Arts, Histories and Cultures. <br>
-**2008** TBL Webster Prize <br>
+**Taught Master’s Programme Bursary (2008)** - A University of Manchester award covering all tuition fees for my Master's degree, based on academic prowess. <br>
+**TBL Webster Prize (2008)** - 
 Cash prize from the School of Arts, Histories and Cultures for academic excellence. <br>
-**2007** Departmental Undergraduate Award <br>
+**Departmental Undergraduate Award (2007)** -
 Recognised as one of ten outstanding students in the Department of Classics and Ancient History in the academic year 2007-2008, out of a cohort of nearly 400. <br>
 
 # Community Work and Volunteering
