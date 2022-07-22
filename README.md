@@ -1,6 +1,6 @@
 # From MySpace to Makers (the scenic route)
 
-Fullstack software engineer who arrived late to the coding party, but has no intention of leaving anytime soon. Coder by day, coder by night, and horticulturalist, birdwatcher, woodturner and repository of random facts the rest of the time. I spent a long time looking for the right industry, having worked in academia, copyediting, grant-acquisition, administration and landscaping among (sometimes literally) other fields, but I now know I'm where I'm meant to be. Having gotten my first taste of coding as a teenager, tinkering with HTML to customise a MySpace page, I largely forgot about it for several years, having fallen victim to the assumption that software development is for those who study maths or computer science, and taking a more humanities-focused route. However, at the end of 2021, I began taking online courses and rediscovered my love for coding, and decided to apply for Makers bootcamp. I have a growth mindset, embrace problems, and relish the opportunity to work in a field where there is constantly the opportunity for self-directed learning and to learn new things. Having completed the intensive bootcamp at Makers Academy, I want to work at a company that offers the opportunity to grow myself and also contribute to society (an ethos which I incorporated into my final project). 
+Fullstack software engineer who arrived late to the coding party, but has no intention of leaving anytime soon. Coder by day, coder by night, and horticulturalist, birdwatcher, woodturner and repository of random facts the rest of the time. I spent a long time looking for the right industry, having worked in academia, copyediting, grant-acquisition, administration and landscaping among (sometimes literally) other fields, but I now know I'm where I'm meant to be. Having gotten my first taste of coding as a teenager, tinkering with HTML to customise a MySpace page, I fell victim to the assumption that software development is for those who study maths or computer science, and took a more humanities-focused route. However, in 2021, I began taking online courses and rediscovered my love for coding, and decided to apply for the <a href="https://makers.tech/">Makers Academy</a> intensive coding bootcamp. Having completed the course, I want to work at a company that offers the opportunity to grow myself and also contribute to society (an ethos which I incorporated into <a href="https://github.com/Farzan-I/brains-on-brioche">my final project</a>). 
 
 # Tech skills
 
@@ -35,31 +35,33 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 
 # Experience/Appointments
 
-**2016-2022**<br>
-*London Clay Gardens: Founder and owner*<br>
+**London Clay Gardens: Founder and owner** *(2016-2022)*
 - In 2016 I founded my own landscape gardening business, turning a profit in the first year and growing from there on out. I took on hundreds of gardens, dozens of regular clients and several large projects across London, building a loyal client base in a short space of time.
+- LCG allowed me to demonstrate my love of design and creativity, designing and building gardens from scratch and creating visions for clients that incorporated concepts like colour theory and texture, and keeping a careful eye on changing tastes - all especially important from a front-end perspective. 
+- Running my own business required transferable skills such as using my initiative, innovation, building and maintaining client relationships, using my creativity, problem-solving, and working to tight deadlines. 
+- Having built my own business from the ground up, I have a special respect and appreciation for what that takes, and feel more motivated than ever to contribute to a creative company. 
+- LCG taught me the importance of good design and careful building, skills that have served me well at Makers and make me a careful, consistent, and assiduous coder. 
 
-**2013-2015**<br>
-*Grant Writer for the John Rylands Research Institute at the University of Manchester* 
+**University of Manchester: Grant Writer for the John Rylands Research Institute** *(2013-2015)* 
 - Copy-editor/copy-writer on several books, articles, and funding applications both for myself and for others.
 - Wrote, prepared, proofed, and edited grants, and coordinated the grant-writing process in general. Also responsible for organizing meetings with prospective applicants, liaising with applicants to ensure deadlines were met, and researching potential sources of funding and bringing them to applicants’ attention.
 - All in all, I was heavily involved in approx. £1.5m grant capture, including a £1m grant from the Arts and Humanities Research Council.
 - Also carried out promotional activities, such as maintaining contact with the research office to spread awareness of the Institute and writing copy to appear in research newsletters and bulletins.
 
-**2012-2015**<br>
-*Research Administrator on ‘Arabic Commentaries on the Hippocratic Aphorisms’ Project at the University of Manchester.* 
+**University of Manchester: Research Administrator on ‘Arabic Commentaries on the Hippocratic Aphorisms’ Project** *(2012-2015)* 
 
 - Responsible for proofing and editing funding applications and publications for the principal investigator and other applicants.
 - Gained valuable experience working as part of a team, liaising with various departments and institutions, and arranging events.
 
-**2012-2014**<br>
-*Teacher/Graduate Teaching Assistant*
+**University of Manchester: Teacher/Graduate Teaching Assistant** *(2012-2014)*
 
 - Led ten different seminar groups (amounting to over a hundred classes) over the course of two years, teaching Latin, Roman and Greek history as well as teaching crash courses in Latin and Ancient Greek for prospective students in 2011 and 2012 while also completing my PhD and working in as an administrator and grant-writer. 
 - This proved helpful in the context of the course when I needed to explain concepts and principles to fellow students (since much of the course revolved around self-directed learning), as well as knowing how to provide constructive feedback when carrying out code-reviews. 
 
 
 # Skills 
+
+For skills - I have a growth mindset, embrace problems, and relish the opportunity to work in a field where there is constantly the opportunity for self-directed learning and to learn new things. - give examples
 
 #### Software Specific
 
