@@ -58,6 +58,8 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 
 - Led ten different seminar groups (amounting to over a hundred classes) over the course of two years, teaching Latin, Roman and Greek history as well as teaching crash courses in Latin and Ancient Greek for prospective students in 2011 and 2012 while also completing my PhD and working in as an administrator and grant-writer. 
 - This proved helpful in the context of the course when I needed to explain concepts and principles to fellow students (since much of the course revolved around self-directed learning), as well as knowing how to provide constructive feedback when carrying out code-reviews. 
+- multitasking -
+- coaching MAP here?
 
 
 # Skills 
