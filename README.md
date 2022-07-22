@@ -41,6 +41,7 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 - Running my own business required transferable skills such as using my initiative, innovation, building and maintaining client relationships, using my creativity, problem-solving, and working to tight deadlines. 
 - Having built my own business from the ground up, I have a special respect and appreciation for what that takes, and feel more motivated than ever to contribute to a creative company. 
 - LCG taught me the importance of good design and careful building, skills that have served me well at Makers and make me a careful, consistent, and assiduous coder. 
+- Managed every aspect of the business and keep on top of the different facets - HMRC, various insurances, record-keeping, client-management, scheduling, tool- and vehicle-maintenance etc were all vital to a functioning business and were all my responsibility. I relish responsibility. 
 
 **University of Manchester: Grant Writer for the John Rylands Research Institute** *(2013-2015)* 
 - Copy-editor/copy-writer on several books, articles, and funding applications both for myself and for others.
@@ -80,8 +81,7 @@ For skills - I have a growth mindset, embrace problems, and relish the opportuni
 - I am able to operate to deadlines and to manage my workload. During my time running London Clay Gardens, I had to plan and schedule projects to avoid overlap or gaps between jobs, work around the British weather, and manage the expectations of clients. Lots of plates needed to be - and were - constantly kept spinning.
 - As a research administrator and as a grant writer, good communication, group-coordination, and the ability to work alone and show initiative were all essential, and these skills have also proved invaluable in running my business and carrying out jobs of various different scales. 
 - I successfully completed a PhD while teaching and working on the ‘Arabic Aphorisms’ project, often assuming extra duties and working overtime with regard to the latter. 
-- As administrator I organised and ran international workshops, arranged travel and accommodation for visiting scholars, created purchase orders and paid invoices, booked rooms for meetings and events, liaised with the IT dept. to resolve any technical issues, and was responsible for the timesheets of the entire research team. I also took and distributed minutes for the monthly meetings, as well as maintaining the shared drive and the project website.  
-- In running London Clay Gardens, I have had to manage every aspect of the business and keep on top of the different facets - HMRC, various insurances, record-keeping, client-management, scheduling, tool- and vehicle-maintenance etc were all vital to a functioning business and were all my responsibility. 
+- As administrator I organised and ran international workshops, arranged travel and accommodation for visiting scholars, created purchase orders and paid invoices, booked rooms for meetings and events, liaised with the IT dept. to resolve any technical issues, and was responsible for the timesheets of the entire research team. I also took and distributed minutes for the monthly meetings, as well as maintaining the shared drive and the project website.   
 
 #### Quick-thinking, solution-oriented, positive-mindset. 
 - I was unable to attend the Makers Careers Fair immediately after graduating, due to catching my first ever case of Covid-19. I came up with a plan whereby a kind friend and coursemate let me meet hiring partners via video chat on his phone, allowing me to ask questions and network remotely. I feel this demonstrates my ability to move quickly in a changing environment and persist in the face of challenges, as well as my determination to be involved and the fact that I am not to be afraid to stand out.  
@@ -162,7 +162,7 @@ Achievements: Built greenhouse and raised beds; clearance; implemented communal 
 
 # Hobbies
 #### Gardening
-- It's not always a bad thing to take your work home with you... My gift to myself upon graduating Makers was 3m<sup>3</sup> of topsoil.
+- It's not always a bad thing to take your work home with you... 
 #### Woodturning/woodwork/building things
 - I have my own lathe, and use it to make things like bowls, lamps, bottle-openers, rattles, vases, loose-change recepticles... anything as long as it's spherical/cylindrical. 
 #### Music/performing
