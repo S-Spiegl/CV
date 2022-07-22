@@ -37,11 +37,11 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 
 **London Clay Gardens: Founder and owner** *(2016-2022)*
 - Turned a profit in the first year. Took on hundreds of gardens and several large projects, quickly building a loyal client base.
-- LCG allowed me to demonstrate my love of design and creativity, designing and building gardens from scratch and creating visions for clients that incorporated concepts like colour theory and texture, and keeping a careful eye on changing tastes - all especially important from a front-end perspective. 
-- Running my own business required transferable skills such as using my initiative, innovation, building and maintaining client and supplier relationships, using my creativity, problem-solving, delegation, and working to tight deadlines. The British weather and other unknowns meant I had to remain flexible, often planning and scheduling projects to avoid overlap or gaps between jobs while keeping clients happy. 
-- Having built my own business from the ground up, I have a special respect and appreciation for what that takes, and feel more motivated than ever to contribute to a creative company. 
-- LCG taught me the importance of good design and careful building, skills that have served me well at Makers and make me a careful, consistent, and assiduous coder. 
+- Channeled my love of design and creativity, designing and building gardens from scratch and creating visions for clients that incorporated concepts like colour theory and texture, and keeping a careful eye on changing tastes - all especially important from a front-end perspective. 
+- Running my own business required transferable skills such as using my initiative, innovation, building and maintaining client and supplier relationships, problem-solving, delegation, and working to tight deadlines. The British weather and other unknowns meant I had to remain flexible, often planning and scheduling projects to avoid overlap or gaps between jobs while keeping clients happy. 
+- Learned the importance of good design and careful building, skills that have made me a careful, consistent, and assiduous coder. 
 - Managed every aspect of the business and keep on top of the different facets - HMRC, various insurances, record-keeping, client-management, scheduling, tool- and vehicle-maintenance etc were all vital to a functioning business and were all my responsibility. I relish responsibility. 
+- Landscaping requires careful planning and calculation to prevent surplus or deficit, and to ensure the finished project is safe. Volume, load-capacity, and budget were just some aspects requiring attention to detail and regular calculations, and this is one of the reasons I so enjoy TDD. It was also necessary to have a clear and ergonomic approach to invoicing, record-keeping, budgeting and fiscal responsibilities to ensure that the administrative side of the business ran smoothly, and such detail-orientation is useful both in coding and in any modern work-environment. 
 
 **University of Manchester: Grant Writer for the John Rylands Research Institute** *(2013-2015)* 
 <!-- - Copy-editor/copy-writer on several books, articles, and funding applications for myself and for others.
@@ -55,6 +55,11 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 **University of Manchester: Research Administrator on ‘Arabic Commentaries on the Hippocratic Aphorisms’ Project** *(2012-2015)* 
 
 - Created a website for the project, using a University of Manchester framework for research pages and taking team photos as well as providing copy. I also designed the flyer for the project launch. 
+
+INCORPORTATE: 
+- I offered proofing and editing services to my PI on the Arabic Aphorisms project, as well as on articles and for his book, *The Mirror of Health: Discovering Medicine in the Golden Age of Islam (2013)*. I also proofed, edited, collated and standardised the CVs of applicants on funding applications. 
+- copy-editing = presentation, front-end, appearances matter... but also means being good at looking for errors. Cuts down on bugs and helps me when looking for them. Well-trained eye. 
+
 - Gained valuable experience working as part of a team, serving as a liaison between the principal investigator and his team, and often delegating tasks on his behalf. 
 - Arranged international workshops and conferences, arranged travel and accommodation for visiting scholars, created purchase orders and paid invoices, booked rooms for meetings and events, liaised with the IT department to resolve technical issues, and was responsible for the timesheets of the entire research team. I also took and distributed minutes for the monthly meetings, as well as maintaining the shared drive and the project website. 
 - At the same time, I also successfully completing a PhD and taught several classes, while often assuming extra duties and working overtime. 
@@ -64,7 +69,10 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 - Led ten different seminar groups (amounting to over a hundred classes) over the course of two years, teaching Latin, Roman history and Greek history as well as crash courses in Latin and Ancient Greek for prospective students in 2011 and 2012, while also completing my PhD and working as an administrator and grant-writer. 
 - I also took part in an outreach programme designed to get students from widening participation backgrounds into the University of Manchester, providing one-on-one coaching.
 - This teaching and coaching experience has proved helpful at Makers when I have needed to explain concepts and principles to fellow students (since much of the course revolved around self-directed learning), as well as knowing how to provide constructive feedback when carrying out code-reviews. 
+INCORPORTATE:
 
+- Prior to founding my business, my background was in academia, and involved translating from ancient and modern languages. Just as I enjoy the relationship between scripts and syntaxes found in different human languages, I’ve enjoyed seeing how coding languages complement each other.
+- As well as being proficient in German and being able to speak several other languages to various degrees, I can read several other scripts, namely Greek, Cyrillic, and Hebrew. 
 
 # Skills 
 
@@ -86,19 +94,16 @@ For skills - I have a growth mindset, embrace problems, and relish the opportuni
 - I was unable to attend the Makers Careers Fair immediately after graduating, due to catching my first ever case of Covid-19. I came up with a plan whereby a kind friend and coursemate let me meet hiring partners via video chat on his phone, allowing me to ask questions and network remotely. I feel this demonstrates my ability to move quickly in a changing environment and persist in the face of challenges, as well as my determination to be involved and the fact that I am not to be afraid to stand out.  
 
 #### Mathematical precision
-- Running my own business, especially one that is construction based, has led me to become adept in practical maths. Every landscaping job entails careful planning and calculation to ensure that there is neither surplus nor deficit, and that the finished project will be safe, and a few millimetres can be the difference between achieving the desired outcome and wasting time and materials. Volume, load-capacity, and budget are just some of the aspects of a standard project that require careful attention to detail and a willingness to carry out regular calculations, and this perhaps one of the reasons I have taken such a shine to TDD. Aside from the construction aspect of landscape gardening industry, it was necessary to have a clear and ergonomic approach to invoicing, record-keeping, budgeting and fiscal responsibilities to ensure that the administrative side of the business runs smoothly, and such detail-orientation would be of use both in the context of coding and in any modern work-environment. 
 
 #### Curious
 - I have a curious mind, for which software engineering has proved the perfect outlet. I won’t rest until I solve a puzzle. I love learning, and I enjoy the idea that coding is a versatile, immersive and constantly changing field in which there is always more to discover.
 
 #### A sharp eye for detail
-- I offered proofing and editing services to my PI on the Arabic Aphorisms project, as well as on articles and for his book, *The Mirror of Health: Discovering Medicine in the Golden Age of Islam (2013)*. I also proofed, edited, collated and standardised the CVs of applicants on funding applications. 
-- copy-editing = presentation, front-end, appearances matter... but also means being good at looking for errors. Cuts down on bugs and helps me when looking for them. Well-trained eye. 
+
 - My work has given me insight into how the horticultural industry can benefit from apps - links between what I do now and what I want to do [EXPAND]
 
 #### Aptitude for languages
-- Prior to founding my business, my background was in academia, and involved translating from ancient and modern languages. Just as I enjoy the relationship between scripts and syntaxes found in different human languages, I’ve enjoyed seeing how coding languages complement each other.
-- As well as being proficient in German and being able to speak several other languages to various degrees, I can read several other scripts, namely Greek, Cyrillic, and Hebrew. 
+
 
 # Education
 
