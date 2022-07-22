@@ -44,10 +44,15 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 - Managed every aspect of the business and keep on top of the different facets - HMRC, various insurances, record-keeping, client-management, scheduling, tool- and vehicle-maintenance etc were all vital to a functioning business and were all my responsibility. I relish responsibility. 
 
 **University of Manchester: Grant Writer for the John Rylands Research Institute** *(2013-2015)* 
-- Copy-editor/copy-writer on several books, articles, and funding applications both for myself and for others.
-- Wrote, prepared, proofed, and edited grants, and coordinated the grant-writing process in general. Also responsible for organizing meetings with prospective applicants, liaising with applicants to ensure deadlines were met, and researching potential sources of funding and bringing them to applicants’ attention.
-- All in all, I was heavily involved in approx. £1.5m grant capture, including a £1m grant from the Arts and Humanities Research Council.
-- Also carried out promotional activities, such as maintaining contact with the research office to spread awareness of the Institute and writing copy to appear in research newsletters and bulletins.
+<!-- - Copy-editor/copy-writer on several books, articles, and funding applications for myself and for others.
+- Wrote, prepared, proofed, and edited grants, and coordinated the grant-writing process. Also responsible for organizing meetings with prospective applicants, liaising with applicants to ensure deadlines were met, and researching potential sources of funding and bringing them to applicants’ attention. -->
+- The JRRI was a recently re-established research institute aimed at promoting research using the John Rylands Library's special collections. External funding was vital to its continued existence.
+- This required that I coordinate a rigid and fast-paced application process. To achieve this, I researched and discussed potential sources of funding with institute members, establishing deadlines and priorities and organising applicants to make sure that we had everything we needed from them in time. I then guided the applicants through their part in the process, as well as writing, preparing, proofing, collating and editing applications as the situation dictated.
+- This resulted in approx. £1.5m in grant capture during my time there, and the Institute went on to be fully incorporated into the library.
+- I also carried out promotional activities, such as maintaining contact with the research office to spread awareness of the Institute and writing copy to appear in research newsletters and bulletins.
+- My experience at the JRRI demonstrates an ability to work to deadlines, coordinate others, and to work as part of a dynamic and ever-changing team. 
+
+
 
 **University of Manchester: Research Administrator on ‘Arabic Commentaries on the Hippocratic Aphorisms’ Project** *(2012-2015)* 
 
@@ -105,8 +110,7 @@ For skills - I have a growth mindset, embrace problems, and relish the opportuni
 
 # Education
 
-#### Makers Academy
-*March 2022 - July 2022*
+#### Makers Academy *(March 2022 - July 2022)*
 
 - An intensive bootcamp with an emphasis on self-directed learning.
 - Learned a number of new languages, frameworks and techniques in a period of 16 weeks (4 weeks part-time, 12 weeks full-time), as detailed in the table above.
@@ -114,25 +118,17 @@ Worked remotely and onsite, practising solo working, pair-programming, mobbing, 
 - Improved my interpersonal and teamworking skills, adhering to an agile methodology and producing work to strict deadlines.
 - During the final project, I learned a new framework from scratch and implemented several features on my own when time was of the essence and we had to split into smaller groups. For example, having worked as part of a team to implement the sign-up route, I was responsible for defining the login route on my own, charting a path from front to back to front end, implementing encryption, and working out how to implement a dropdown menu for both sign-up and login, which I did outside of office hours so as to make sure we were able to keep to schedule. I also took on a lot of front-end responsibilities, sharing my knowledge of CSS and especially flexbox to solve some of the issues we were having.
 
-#### Capel Manor College
-*(2015-2016)*
+#### Capel Manor College *(2015-2016)*
 
 Level 3 Diploma in Countryside Management. (Distinction in every module) 
 
-#### University of Manchester
-*(2005-2013)*
+#### University of Manchester *(2005-2013)*
 - PhD in Classics and Ancient History (2009-2013) - successfully defended
 - MA in Ancient World Studies (2008-2009) - Grade: Distinction 
 - BA (Hons) in Ancient History (2005-2008) - Grade: First
 - Took a number of languages (some for credit, some audited): Latin, Ancient Greek, Academic German, Academic Italian.
 - Audited a papyrology course, where we were taught to decipher a new form of a familiar language (the handwritten Ancient Greek found on these documents is very different to the printed texts we had learned from), a transition which bears some similarities to transitioning from Ruby to JavaScript to Python. 
 - Received a number of awards and bursaries (see below)
-
-#### LaSWAP Sixth Form Consortium
-*(2002-2003)*
-
-A-Levels: Classical Civilisations (A) German (B) History (C)
-AS-Level: English (C)
 
 # Awards and Grants
 
