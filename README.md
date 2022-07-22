@@ -36,9 +36,9 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 # Experience/Appointments
 
 **London Clay Gardens: Founder and owner** *(2016-2022)*
-- In 2016 I founded my own landscape gardening business, turning a profit in the first year and growing from there on out. I took on hundreds of gardens, dozens of regular clients and several large projects across London, building a loyal client base in a short space of time.
+- Turned a profit in the first year. Took on hundreds of gardens and several large projects, quickly building a loyal client base.
 - LCG allowed me to demonstrate my love of design and creativity, designing and building gardens from scratch and creating visions for clients that incorporated concepts like colour theory and texture, and keeping a careful eye on changing tastes - all especially important from a front-end perspective. 
-- Running my own business required transferable skills such as using my initiative, innovation, building and maintaining client relationships, using my creativity, problem-solving, and working to tight deadlines. 
+- Running my own business required transferable skills such as using my initiative, innovation, building and maintaining client and supplier relationships, using my creativity, problem-solving, delegation, and working to tight deadlines. The British weather and other unknowns meant I had to remain flexible, often planning and scheduling projects to avoid overlap or gaps between jobs while keeping clients happy. 
 - Having built my own business from the ground up, I have a special respect and appreciation for what that takes, and feel more motivated than ever to contribute to a creative company. 
 - LCG taught me the importance of good design and careful building, skills that have served me well at Makers and make me a careful, consistent, and assiduous coder. 
 - Managed every aspect of the business and keep on top of the different facets - HMRC, various insurances, record-keeping, client-management, scheduling, tool- and vehicle-maintenance etc were all vital to a functioning business and were all my responsibility. I relish responsibility. 
@@ -52,19 +52,18 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 - I also carried out promotional activities, such as maintaining contact with the research office to spread awareness of the Institute and writing copy to appear in research newsletters and bulletins.
 - My experience at the JRRI demonstrates an ability to work to deadlines, coordinate others, and to work as part of a dynamic and ever-changing team. 
 
-
-
 **University of Manchester: Research Administrator on ‘Arabic Commentaries on the Hippocratic Aphorisms’ Project** *(2012-2015)* 
 
-- Responsible for proofing and editing funding applications and publications for the principal investigator and other applicants.
-- Gained valuable experience working as part of a team, liaising with various departments and institutions, and arranging events.
+- Created a website for the project, using a University of Manchester framework for research pages and taking team photos as well as providing copy. I also designed the flyer for the project launch. 
+- Gained valuable experience working as part of a team, serving as a liaison between the principal investigator and his team, and often delegating tasks on his behalf. 
+- Arranged international workshops and conferences, arranged travel and accommodation for visiting scholars, created purchase orders and paid invoices, booked rooms for meetings and events, liaised with the IT department to resolve technical issues, and was responsible for the timesheets of the entire research team. I also took and distributed minutes for the monthly meetings, as well as maintaining the shared drive and the project website. 
+- At the same time, I also successfully completing a PhD and taught several classes, while often assuming extra duties and working overtime. 
 
 **University of Manchester: Teacher/Graduate Teaching Assistant** *(2012-2014)*
 
-- Led ten different seminar groups (amounting to over a hundred classes) over the course of two years, teaching Latin, Roman and Greek history as well as teaching crash courses in Latin and Ancient Greek for prospective students in 2011 and 2012 while also completing my PhD and working in as an administrator and grant-writer. 
-- This proved helpful in the context of the course when I needed to explain concepts and principles to fellow students (since much of the course revolved around self-directed learning), as well as knowing how to provide constructive feedback when carrying out code-reviews. 
-- multitasking -
-- coaching MAP here?
+- Led ten different seminar groups (amounting to over a hundred classes) over the course of two years, teaching Latin, Roman history and Greek history as well as crash courses in Latin and Ancient Greek for prospective students in 2011 and 2012, while also completing my PhD and working as an administrator and grant-writer. 
+- I also took part in an outreach programme designed to get students from widening participation backgrounds into the University of Manchester, providing one-on-one coaching.
+- This teaching and coaching experience has proved helpful at Makers when I have needed to explain concepts and principles to fellow students (since much of the course revolved around self-directed learning), as well as knowing how to provide constructive feedback when carrying out code-reviews. 
 
 
 # Skills 
@@ -78,17 +77,10 @@ For skills - I have a growth mindset, embrace problems, and relish the opportuni
 - [EXPAND]
 
 ####  Excellent communication, presentation and personal skills
-- My time running London Clay Gardens has cemented my ability to communicate with clients and suppliers, and to delegate jobs from the top down. 
-- During my MA, PhD and time on the Arabic Aphorisms project, I gave various talks and papers to academic audiences, prospective students, and at the project launch.
 - A background in performing and giving talks and papers means that I have excellent delivery skills. At the close of the Makers bootcamp, I delivered a joint presentation which received an extremely positive reception, and can be watched here (link opens on youtube):<br>
 [![test](presentation.png)](https://youtu.be/iFInzKR8BWs?t=1170)<br>
-- As administrator on the Arabic Aphorisms project I served as liaison between the PI, team, the wider administrative network of the University of Manchester, and external institutions and projects.  
 
 #### Organised and adaptable
-- I am able to operate to deadlines and to manage my workload. During my time running London Clay Gardens, I had to plan and schedule projects to avoid overlap or gaps between jobs, work around the British weather, and manage the expectations of clients. Lots of plates needed to be - and were - constantly kept spinning.
-- As a research administrator and as a grant writer, good communication, group-coordination, and the ability to work alone and show initiative were all essential, and these skills have also proved invaluable in running my business and carrying out jobs of various different scales. 
-- I successfully completed a PhD while teaching and working on the ‘Arabic Aphorisms’ project, often assuming extra duties and working overtime with regard to the latter. 
-- As administrator I organised and ran international workshops, arranged travel and accommodation for visiting scholars, created purchase orders and paid invoices, booked rooms for meetings and events, liaised with the IT dept. to resolve any technical issues, and was responsible for the timesheets of the entire research team. I also took and distributed minutes for the monthly meetings, as well as maintaining the shared drive and the project website.   
 
 #### Quick-thinking, solution-oriented, positive-mindset. 
 - I was unable to attend the Makers Careers Fair immediately after graduating, due to catching my first ever case of Covid-19. I came up with a plan whereby a kind friend and coursemate let me meet hiring partners via video chat on his phone, allowing me to ask questions and network remotely. I feel this demonstrates my ability to move quickly in a changing environment and persist in the face of challenges, as well as my determination to be involved and the fact that I am not to be afraid to stand out.  
