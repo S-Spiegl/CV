@@ -2,17 +2,16 @@
 
 Fullstack software engineer who arrived late to the coding party, but has no intention of leaving anytime soon. Coder by day, coder by night, and horticulturalist, birdwatcher, woodturner and repository of random facts the rest of the time. I spent a long time looking for the right industry, having worked in academia, copyediting, grant-acquisition, administration and landscaping among (sometimes literally) other fields, but I now know I'm where I'm meant to be. Having gotten my first taste of coding as a teenager, tinkering with HTML to customise a MySpace page, I fell victim to the assumption that software development is for those who study maths or computer science, and took a more humanities-focused route. However, in 2021, I began taking online courses and rediscovered my love for coding, and decided to apply for the <a href="https://makers.tech/">Makers Academy</a> intensive coding bootcamp. Having completed the course, I want to work at a company that offers the opportunity to grow myself and also contribute to society (an ethos which I incorporated into <a href="https://github.com/Farzan-I/brains-on-brioche">my final project</a>). 
 
-# Tech skills
-
-| Languages     | Libraries     | Testing             | Databases  | Environments | Frameworks      | Other Technologies |
-| ------------- | ------------- | ------------------- | ---------- | ------------ | --------------- | ---------- |
-|   Javascript  | React         |   Jest              |  MongoDB   |  IRB         | Express         |  Git
-|   Ruby        | Mongoose      |   RSpec             | PostgreSQL |  Node.js     | Sinatra         |  Handlebars
-|   HTML5       | Redux         |   Cypress           |            |              |                 |  ERB
-|   CSS3        |               |   Capybara          |            |              |                 |  VIM
-|   SQL         |               |                     |            |              |                 |
-|   Markdown    |               |                     |            |              |                 |
-
+| Languages     | Libraries     | Testing             | Databases  | Environments | Frameworks      | Other Technologies | Concepts |
+| ------------- | ------------- | ------------------- | ---------- | ------------ | --------------- | ---------- | -----------------|
+|   Javascript  | React         |   Jest              |  MongoDB   |  IRB         | Express         |  Git        | TDD/BDD    
+|   Ruby        | Mongoose      |   RSpec             | PostgreSQL |  Node.js     | Sinatra         |  Handlebars | OOP
+|   HTML5       | Redux         |   Cypress           |            |              |                 |  ERB.       | MVC
+|   CSS3        |               |   Capybara          |            |              |                 |  VIM        | Agile
+|   SQL         |               |                     |            |              |                 |             | Version control
+|   Markdown    |               |                     |            |              |                 |             | Pair-programming
+|               |               |                     |            |              |                 |             | RESTful APIs              |
+|               |               |                     |            |              |                 |             | Code Review            |
 
 # Selected Projects
 
@@ -33,20 +32,29 @@ Fullstack software engineer who arrived late to the coding party, but has no int
  -->
    
 
+# Skills 
+
+- I have a growth mindset, embrace problems, and relish the opportunity to work in a field where there is constantly the opportunity for self-directed learning and to learn new things. 
+- I can produce work in a short space of time using an agile methodology, sprints, pair-programming, mobbing, stand-ups, retros, and careful diagramming. 
+- I'm a strong proponent of TDD, OOP, careful version control, and the separation of front and backend. For my final project, I produced a scalable app with a microservices architecture. 
+- A background in performing and giving talks and papers means that I have excellent delivery skills. At the close of the Makers bootcamp, I delivered a joint presentation which received an extremely positive reception, and can be watched <a href= "https://youtu.be/iFInzKR8BWs?t=1170">here</a>
+- I am organised and adaptable, quick-thinking and solution-oriented. When I was unable to attend the Makers Careers Fair immediately after graduating, due to catching Covid-19, I met hiring partners via video chat on a friend's phone. [Second example here]
+- I have a curious mind, for which software engineering has proved the perfect outlet. I won’t rest until I solve a puzzle. I love learning, and I enjoy the idea that coding is a versatile, immersive and constantly changing field in which there is always more to discover.
+
 # Experience/Appointments
 
 **London Clay Gardens: Founder and owner** *(2016-2022)*
 - Turned a profit in the first year. Took on hundreds of gardens and several large projects, quickly building a loyal client base.
-- Channeled my creativity to design and build gardens from scratch, creating visions for clients that incorporated concepts like colour theory and texture, and keeping a careful eye on changing tastes - all especially important from a front-end perspective. 
+- Channeled my creativity to design and build gardens from scratch, creating visions for clients that incorporated concepts like colour theory and texture, and keeping a careful eye on changing tastes while balancing ergonomic and aesthetic principles - all especially important from a front-end perspective. 
 - Developed transferable skills such as using my initiative, building and maintaining client and supplier relationships, problem-solving, delegation, and working to tight deadlines. The British weather and other unknowns meant I had to remain flexible, planning and scheduling projects to avoid overlap or gaps between jobs while keeping clients happy. 
 - Learned the importance of good design and careful construction, skills that have made me a careful, consistent, and assiduous coder. 
 - Managed every aspect of the business such as HMRC, numerous insurances, record-keeping, client-management, scheduling, and tool- and vehicle-maintenance. I thrive when given responsibility. 
-- Landscaping requires careful planning and calculation to prevent surplus or deficit, and to ensure the finished project is safe. Volume, load-capacity, and budget were just some aspects requiring attention to detail and regular calculations, and this is one of the reasons I so enjoy TDD. It was also necessary to have a clear and ergonomic approach to invoicing, record-keeping, budgeting and fiscal responsibilities to ensure that the administrative side of the business ran smoothly, and such detail-orientation is useful both in coding and in any modern work-environment. 
+- Landscaping requires careful planning and calculation to prevent surplus or deficit, and to ensure the finished project is safe. Volume, load-capacity, and budget were just some aspects requiring attention to detail and regular calculations, and this is one of the reasons I love TDD. It was also necessary to have a clear and ergonomic approach to invoicing, record-keeping, budgeting and fiscal responsibilities to ensure that the administrative side of the business ran smoothly, and such detail-orientation is useful both in coding and in any modern work-environment. 
 
 **University of Manchester: Grant Writer for the John Rylands Research Institute** *(2013-2015)* 
 <!-- - Copy-editor/copy-writer on several books, articles, and funding applications for myself and for others.
 - Wrote, prepared, proofed, and edited grants, and coordinated the grant-writing process. Also responsible for organizing meetings with prospective applicants, liaising with applicants to ensure deadlines were met, and researching potential sources of funding and bringing them to applicants’ attention. -->
-- The JRRI was a recently re-established research institute aimed at promoting research using the John Rylands Library's special collections. External funding was vital to its continued existence.
+- When I joined, the JRRI was a recently re-established research institute aimed at promoting research using the John Rylands Library's special collections. External funding was vital to its continued existence.
 - This required that I coordinate a rigid and fast-paced application process. To achieve this, I researched and discussed potential sources of funding with institute members, establishing deadlines and priorities and organising applicants to make sure that we had everything we needed from them in time. I then guided the applicants through their part in the process, as well as writing, preparing, proofing, collating and editing applications as the situation dictated.
 - This resulted in approx. £1.5m in grant capture during my time there, and the Institute went on to be fully incorporated into the library.
 - I also carried out promotional activities, such as maintaining contact with the research office to spread awareness of the Institute and writing copy to appear in research newsletters and bulletins.
@@ -66,21 +74,12 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 - I also took part in an outreach programme designed to get students from widening participation backgrounds into the University of Manchester, providing one-on-one coaching.
 - This teaching and coaching experience has proved helpful at Makers when I have needed to explain concepts and principles to fellow students (since much of the course revolved around self-directed learning), as well as knowing how to provide constructive feedback when carrying out code-reviews. 
 
-# Skills 
-
-- I have a growth mindset, embrace problems, and relish the opportunity to work in a field where there is constantly the opportunity for self-directed learning and to learn new things. 
-- I can produce work in a short space of time using an agile methodology, sprints, pair-programming, mobbing, stand-ups, retros and careful diagramming. 
-- I'm a strong proponent of TDD, OOP, and the separation of front and backend. For my final project, I produced a scalable app with a microservices architecture. 
-- A background in performing and giving talks and papers means that I have excellent delivery skills. At the close of the Makers bootcamp, I delivered a joint presentation which received an extremely positive reception, and can be watched <a href= "https://youtu.be/iFInzKR8BWs?t=1170">here</a>
-- I am organised and adaptable, quick-thinking and solution-oriented. When I was unable to attend the Makers Careers Fair immediately after graduating, due to catching Covid-19, I networked with hiring partners via video chat on a friend's phone. [Second example here]
-- I have a curious mind, for which software engineering has proved the perfect outlet. I won’t rest until I solve a puzzle. I love learning, and I enjoy the idea that coding is a versatile, immersive and constantly changing field in which there is always more to discover.
-
 # Education
 
 #### Makers Academy *(March 2022 - July 2022)*
 
 - An intensive bootcamp with an emphasis on self-directed learning.
-- Learned a number of new languages, frameworks and techniques in a period of 16 weeks (4 weeks part-time, 12 weeks full-time), as detailed in the table above.
+- Learned numerous new languages, frameworks, technologies and techniques in a period of 16 weeks, as detailed in the table above.
 - Worked remotely and onsite, practising solo working, pair-programming, mobbing, and producing three main projects as a team as well as several solo projects.
 - Improved my interpersonal and teamworking skills, adhering to an agile methodology and producing work to strict deadlines.
 - During the final project, I learned a new framework from scratch and implemented several features on my own when time was of the essence and we had to split into smaller groups. For example, having worked as part of a team to implement the sign-up route, I was responsible for defining the login route on my own, charting a path from front to back to front end, implementing encryption, and working out how to implement a dropdown menu for both sign-up and login, which I did outside of office hours so as to make sure we were able to keep to schedule. I also took on a lot of front-end responsibilities, sharing my knowledge of CSS and especially flexbox to solve some of the issues we were having.
@@ -97,7 +96,8 @@ Level 3 Diploma in Countryside Management. (Distinction in every module)
 - Audited a papyrology course, where we were taught to decipher a new form of a familiar language (the handwritten Ancient Greek found on these documents is very different to the printed texts we had learned from), a transition which bears some similarities to transitioning from Ruby to JavaScript to Python. 
 - Received a number of awards and bursaries (see below)
 
-# Awards and Grants
+# Awards and Grants 
+<!-- (change formatting?) -->
 
 **Roman Society Bursary (2012)** - 
 £500 bursary for a two-week study visit to the Fondation Hardt in Geneva. <br>
@@ -119,9 +119,10 @@ Made educational and interactive visits to schools to teach children about the n
 Built greenhouse and raised beds; implemented communal beds; helped organise events to bring more people into scheme. 
 
 # Hobbies
-*Gardening*
-- It's not always a bad thing to take your work home with you... 
-*Woodturning/woodwork/building things*
-- I have my own lathe, and use it to make things like bowls, lamps, bottle-openers, rattles, vases, loose-change recepticles... anything as long as it's spherical/cylindrical. 
-*Music/performing*
-- I play guitar and piano, and was in several bands during and after my time at uni, as well as performing solo. I was also in the University of Manchester German Society play three years in a row
+
+#### Gardening
+It's not always a bad thing to take your work home with you... 
+#### Woodturning/woodwork/building things
+I have my own lathe, and use it to make things like bowls, lamps, bottle-openers, rattles, vases, loose-change recepticles... anything as long as it's spherical/cylindrical.
+#### Music/performing 
+I play guitar and piano, and was in several bands during and after my time at uni, as well as performing solo. I was also in the University of Manchester German Society play three years in a row
