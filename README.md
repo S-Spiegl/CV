@@ -36,7 +36,7 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 
 - I have a growth mindset, embrace problems, and relish the opportunity to work in a field where there is constantly the opportunity for self-directed learning and to learn new things. 
 - I can produce work in a short space of time using an agile methodology, sprints, pair-programming, mobbing, stand-ups, retros, and careful diagramming. 
-- I'm a strong proponent of TDD, OOP, careful version control, and the separation of front and backend. For my final project, I produced a scalable app with a microservices architecture. 
+- I'm a strong proponent of TDD, OOP, careful version control, and the separation of front and backend. For my final project, I produced a scalable app with the foundation for a microservices architecture. 
 - A background in performing and giving talks and papers means that I have excellent delivery skills. At the close of the Makers bootcamp, I delivered a joint presentation which received an extremely positive reception, and can be watched <a href= "https://youtu.be/iFInzKR8BWs?t=1170">here</a>
 - I am organised and adaptable, quick-thinking and solution-oriented. When I was unable to attend the Makers Careers Fair immediately after graduating, due to catching Covid-19, I met hiring partners via video chat on a friend's phone. <!-- [Second example here] -->
 - I have a curious mind, for which software engineering has proved the perfect outlet. I won’t rest until I solve a puzzle. I love learning, and I enjoy the idea that coding is a versatile, immersive and constantly changing field in which there is always more to discover.
