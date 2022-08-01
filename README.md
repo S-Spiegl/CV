@@ -18,11 +18,11 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 | Name                            | Type    | Description         | Technologies      | 
 | -------------                   | --------| ------------------- | ---------- | 
 |   <a href="https://github.com/Farzan-I/brains-on-brioche">Brains on Brioche</a>             | Group   | An app built using the MERN stack, designed to prevent food waste. BoB allows users with either an empty or an overflowing fridge to find original recipes using an external API and a cloud-based database, complete with separate front-end and back-ends for maintenance and scalability.                | JavaScript, Node.js, Express, Mongoose, MongoDB, HTML5, CSS3, Jest, Cypress, React, Redux           | 
-|   <a href="https://lacebook.herokuapp.com/">Acebook</a>                       | Group   |   A Facebook clone built using MongoDB, Express, Handlebars and Node.js.             | JavaScript, Node.js, Express, Handblebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress | 
-|   <a href="https://github.com/ErlantzR/MakersBnB">Makers BnB</a>                    | Group   |   An AirBnB clone using Ruby, Sinatra and PostgreSQL.              | Ruby, RSpec, Sinatra, Capybara, CSS3, HTML5, PostgreSQL | 
+|   <a href="https://lacebook.herokuapp.com/">Acebook</a>                       | Group   |   A social network built using MongoDB, Express, Handlebars and Node.js.             | JavaScript, Node.js, Express, Handblebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress | 
+|   <a href="https://github.com/ErlantzR/MakersBnB">Makers BnB</a>                    | Group   |   An holiday rental app built using Ruby, Sinatra and PostgreSQL.              | Ruby, RSpec, Sinatra, Capybara, CSS3, HTML5, PostgreSQL | 
 |   <a href="https://github.com/S-Spiegl/rps-challenge">Rock, Paper, Scissors</a>| Solo   |   An interactive game that allowed a user to play a game of Rock Paper Scissors, and my first time dabbling with HTML and CSS as part of the course.         | Ruby, RSpec, Sinatra, Capybara, CSS3, HTML5            | 
 |   <a href="https://github.com/S-Spiegl/Noughts-and-crosses">Noughts and Crosses</a>           | Solo    |   A solo challenge based off a potential tech-test, written in Javascript.         | JavaScript            | 
-|   <a href="https://github.com/S-Spiegl/chitter-challenge">Chitter</a>             | Solo    |  A Twitter clone.         | Ruby, Capybara, PostgreSQL           | 
+|   <a href="https://github.com/S-Spiegl/chitter-challenge">Chitter</a>             | Solo    |  A microblogging app.         | Ruby, Capybara, PostgreSQL           | 
 <!-- |   Instagram Challenge           | Solo    |   An Instagram clone, built using  MongoDB, Express, Handlebars and Node.js.           | JavaScript, Node.js, Express, Handblebars, HTML5, CSS3, Jest, MongoDB, Mongoose, Cypress            | 
 |   Bowling Challenge             | Solo    |  A solo weekend challenge, designed to allow a user to calculate their score in what is a deceptively complicated game.        | Ruby           | 
 |   Bowling Challenge JS       | Solo    |   The same as the bowling challenge, this time in Javascript.     | JavaScript           | 
@@ -66,7 +66,7 @@ Fullstack software engineer who arrived late to the coding party, but has no int
 - I offered proofing and editing services to my principal investigator, on articles and for his book, *The Mirror of Health: Discovering Medicine in the Golden Age of Islam (2013)*. This attention to detail means that I am very good at looking for errors in code, cutting down on bugs, and also appreciate the importance of front-end. 
 - Gained valuable experience working as part of a team, serving as a liaison between the principal investigator and his team, and often delegating tasks on his behalf. 
 - Arranged international workshops and conferences, arranged travel and accommodation for visiting scholars, created purchase orders and paid invoices, booked rooms for meetings and events, liaised with the IT department to resolve technical issues, and was responsible for the timesheets of the entire research team. I also took and distributed minutes for the monthly meetings, as well as maintaining the shared drive and the project website. 
-- At the same time, I also successfully completing a PhD and taught several classes, while often assuming extra duties and working overtime. 
+- At the same time, I also successfully completed a PhD and taught several classes, while often assuming extra duties and working overtime. 
 
 **University of Manchester: Teacher/Graduate Teaching Assistant** *(2012-2014)*
 
